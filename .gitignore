@@ -1,0 +1,9 @@
+r.txt
+*.ipynb
+.env
+
+model/*
+tokenizer/*
+.cog
+
+__pycache__
